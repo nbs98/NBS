@@ -1,0 +1,9 @@
+D:\Job\All\Web services\WS_Demo\QuanLySInhVien_WC\bin\Debug\QuanLySInhVien_WC.exe.config
+D:\Job\All\Web services\WS_Demo\QuanLySInhVien_WC\obj\Debug\QuanLySInhVien_WC.csprojResolveAssemblyReference.cache
+D:\Job\All\Web services\WS_Demo\QuanLySInhVien_WC\obj\Debug\QuanLySInhVien_WC.Form1.resources
+D:\Job\All\Web services\WS_Demo\QuanLySInhVien_WC\obj\Debug\QuanLySInhVien_WC.Properties.Resources.resources
+D:\Job\All\Web services\WS_Demo\QuanLySInhVien_WC\obj\Debug\QuanLySInhVien_WC.csproj.GenerateResource.Cache
+D:\Job\All\Web services\WS_Demo\QuanLySInhVien_WC\bin\Debug\QuanLySInhVien_WC.exe
+D:\Job\All\Web services\WS_Demo\QuanLySInhVien_WC\bin\Debug\QuanLySInhVien_WC.pdb
+D:\Job\All\Web services\WS_Demo\QuanLySInhVien_WC\obj\Debug\QuanLySInhVien_WC.exe
+D:\Job\All\Web services\WS_Demo\QuanLySInhVien_WC\obj\Debug\QuanLySInhVien_WC.pdb
