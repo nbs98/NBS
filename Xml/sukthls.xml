@@ -1,0 +1,59 @@
+<Invoice>
+  <Content Id="SigningData">
+    <InvoiceName>HÓA ĐƠN GIÁ TRỊ GIA TĂNG</InvoiceName>
+    <InvoicePattern>01GTKT0/001</InvoicePattern>
+    <SerialNo>AA/15P</SerialNo>
+    <InvoiceNo>0000000</InvoiceNo>
+    <ArisingDate></ArisingDate>
+    <Kind_of_Payment>ATM</Kind_of_Payment>
+    <ComName>CÔNG TY CỔ PHẦN SỨ KỸ THUẬT HOÀNG LIÊN SƠN</ComName>
+    <ComTaxCode>5200216710</ComTaxCode>
+    <ComAddress>Số 93, Đường Lê Lợi, Phường Yên Ninh, Thành phố Yên Bái, Tỉnh Yên Bái</ComAddress>
+    <ComPhone>02163852477</ComPhone>
+    <ComFax></ComFax>
+    <ComBankNo></ComBankNo>
+    <ComBankName></ComBankName>
+    <CusCode></CusCode>
+    <CusName>Sơn</CusName>
+    <Buyer>Nguyễn Bá Sơn</Buyer>
+    <CusCom></CusCom>
+    <CusTaxCode>10011998</CusTaxCode>
+    <OrderNo></OrderNo>
+    <OrderDate></OrderDate>
+    <CusPhone>039 222 0602</CusPhone>
+    <CusAddress>Văn Yên - Yên Bái</CusAddress>
+    <CusBankName ></CusBankName>
+    <CusBankNo >19033087747014</CusBankNo>
+    <Total></Total>
+    <Amount></Amount>
+    <Amount_words></Amount_words>
+    <KindOfService />
+    <VAT_Amount></VAT_Amount>
+    <VAT_Rate></VAT_Rate>
+    <VatAmount0></VatAmount0>
+    <GrossValue0></GrossValue0>
+    <VatAmount5></VatAmount5>
+    <GrossValue5></GrossValue5>
+    <VatAmount10></VatAmount10>
+    <GrossValue10></GrossValue10>
+    <GrossValue></GrossValue>
+    <Discount_Rate></Discount_Rate>
+    <Discount_Amount></Discount_Amount>
+    <Products>
+      <Product>
+        <Code></Code>
+        <ProdName></ProdName>
+        <ProdUnit></ProdUnit>
+        <ProdQuantity></ProdQuantity>
+        <ProdPrice></ProdPrice>
+        <Total></Total>
+        <Discount></Discount>
+        <DiscountAmount></DiscountAmount>
+        <VATRate></VATRate>
+        <VATAmount></VATAmount>
+        <Amount></Amount>
+      </Product>
+    </Products>
+  </Content>
+  <image>temp</image>
+</Invoice>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" elementFormDefault="qualified" attributeFormDefault="qualified" id="VAT_Invoice">
+	<xs:element name="VAT_Invoice">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Amount" type="xs:decimal" nillable="true"/>
+				<xs:element name="ComBankName" type="xs:string" nillable="true"/>
+				<xs:element name="ComBankNo" type="xs:string" nillable="true"/>
+				<xs:element name="CusAddress" type="xs:string" nillable="true"/>
+				<xs:element name="CusBankName" type="xs:string" nillable="true"/>
+				<xs:element name="CusBankNo" type="xs:string" nillable="true"/>
+				<xs:element name="CusCode" type="xs:string" nillable="true"/>
+				<xs:element name="CusName" type="xs:string" nillable="true"/>
+				<xs:element name="CusName1" type="xs:string" nillable="true"/>
+				<xs:element name="CusPhone" type="xs:string" nillable="true"/>
+				<xs:element name="CusTaxCode" type="xs:string" nillable="true"/>
+				<xs:element name="In_words" type="xs:string" nillable="true"/>
+				<xs:element name="InvoiceName" type="xs:string" nillable="true"/>
+				<xs:element name="InvoiceNo" type="xs:decimal" nillable="true"/>
+				<xs:element name="InvoicePattern" type="xs:string" nillable="true"/>
+				<xs:element name="Kind_of_Payment" type="xs:string" nillable="true"/>
+				<xs:element name="Products"/>
+				<xs:element name="PubAddress" type="xs:string" nillable="true"/>
+				<xs:element name="PubDate" type="xs:dateTime" nillable="true"/>
+				<xs:element name="PubPhone" type="xs:string" nillable="true"/>
+				<xs:element name="PubTaxCode" type="xs:string" nillable="true"/>
+				<xs:element name="Publisher" type="xs:string" nillable="true"/>
+				<xs:element name="SerialNo" type="xs:string" nillable="true"/>
+				<xs:element name="Discount_Amount" type="xs:decimal" nillable="true"/>
+				<xs:element name="Discount_Rate" type="xs:float" nillable="true"/>
+				<xs:element name="VAT_Amount" type="xs:decimal" nillable="true"/>
+				<xs:element name="VAT_Rate" type="xs:float" nillable="true"/>
+				<xs:element name="Signature">
+					<!--<xs:complexType>
+            <xs:sequence>
+              <xs:element name="SignedInfo">
+                <xs:complexType>
+                  <xs:sequence>
+
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="SignatureValue" type="xs:string"></xs:element>
+              <xs:element name="KeyInfo"></xs:element>
+            </xs:sequence>
+          </xs:complexType>-->
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>
